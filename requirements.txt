@@ -1,7 +1,7 @@
-streamlit==1.36.0
-transformers==4.38.0
+streamlit
+transformers
 torch 
-langchain==0.0.195 
-langchain-community==0.0.10  
-python-dotenv==1.0.0
-openai==0.27.0
+langchain
+langchain-community
+python-dotenv
+openai
